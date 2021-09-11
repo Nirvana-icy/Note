@@ -24,5 +24,9 @@
 
 [Rethink of O2O with service design thinking.](https://github.com/Nirvana-icy/candyImg/blob/master/DDO2O/IntroOfServiceDesign.md)
 
+![image](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtFcEiahyfjOCybpKcIPmqKb5hJvGygrD9jfKh4ppmuuYS07fQYBrauriawK9Uuuiau9GrK1ianibwOxiczQ/0?wx_fmt=png)
+
 ---
+
 [Achieved](https://github.com/Nirvana-icy/candyImg.git)
+
