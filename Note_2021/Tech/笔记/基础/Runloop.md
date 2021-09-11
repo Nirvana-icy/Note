@@ -76,6 +76,35 @@ RunLoop的核心就是一个 mach_msg()，RunLoop调用这个函数去接收消�
 
 ### 苹果用RunnLoop实现的功能
 
+#### AutoreleasePool
+
+#### 事件响应
+
+硬件事件（触摸/锁屏/摇晃）首先由IOKit.framework -生成-> IOHIDEvent -> SpringBoard接收 -> mach port转发给需要的App进程
+
+触发Source1注册的回调 -> _IOHIDEventSystemClientQueueCallback() -调用-> _UIApplicationHandleEventQueue() 进行应用内部的分发。
+
+_UIApplicationHandleEventQueue() 会把 IOHIDEvent 处理并包装成 UIEvent 进行处理或分发，
+
+其中包括识别 UIGesture/处理屏幕旋转/发送给 UIWindow 等。
+
+通常事件比如 UIButton 点击、touchesBegin/Move/End/Cancel 事件都是在这个回调中完成的。
+
+#### 手势识别
+
+#### 界面更新
+
+#### 定时器
+
+#### PerformSelecter
+
+#### GCD
+
+#### 网络请求
+
+
+
+
 
 
 
