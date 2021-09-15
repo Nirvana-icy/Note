@@ -87,3 +87,5 @@ find . -type f | grep -e ".framework" | xargs grep -s LAContext
 [浅谈iOS Crash（一）](https://juejin.cn/post/6844903487201869838)
 
 [低于0.01%的极致Crash率是怎么做到的？](https://github.com/Nirvana-icy/Note/blob/Year/2021/Note_2021/Tech/笔记/学习/低于0.01%25的极致Crash率是怎么做到的？.md)
+
+[Android 启动优化](https://juejin.cn/post/6926794003794903048)
