@@ -89,3 +89,5 @@ find . -type f | grep -e ".framework" | xargs grep -s LAContext
 [低于0.01%的极致Crash率是怎么做到的？](https://github.com/Nirvana-icy/Note/blob/Year/2021/Note_2021/Tech/笔记/学习/低于0.01%25的极致Crash率是怎么做到的？.md)
 
 [Android 启动优化](https://juejin.cn/post/6926794003794903048)
+
+[OOM探究：XNU 内存状态管理](https://mp.weixin.qq.com/s/fRm6IrBh83-NxWT7g9UzbA)
