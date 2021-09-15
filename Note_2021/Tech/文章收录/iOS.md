@@ -81,3 +81,9 @@ find . -type f | grep -e ".framework" | xargs grep -s LAContext
 [Revisit iOS Autorelease 之不经意间可能被影响的优化](https://mp.weixin.qq.com/s?__biz=MzA5NzMwODI0MA==&mid=2647763962&idx=1&sn=b4d4bd32080a987657f81427e6f4eff2&chksm=8887d0c5bff059d3dbdc9e2f4c1cc536888a83f4086f207227534eb17ca8cc8b5681035b8f17&token=677686238&lang=zh_CN&scene=21#wechat_redirect)
 
 [Crash优化与建议](https://mp.weixin.qq.com/s?__biz=MzA5NzMwODI0MA==&mid=2647763899&idx=1&sn=989385831c105cd1c64b0512c8419409&chksm=8887d084bff05992bdc3772bf57d00c543556e179edd609822a57cff51bf7339f8b31120e4a9&token=759973081&lang=zh_CN&scene=21#wechat_redirect)
+
+## 2021-09
+
+[浅谈iOS Crash（一）](https://juejin.cn/post/6844903487201869838)
+
+[低于0.01%的极致Crash率是怎么做到的？](https://github.com/Nirvana-icy/Note/blob/Year/2021/Note_2021/Tech/笔记/学习/低于0.01%25的极致Crash率是怎么做到的？.md)
