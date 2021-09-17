@@ -91,3 +91,7 @@ find . -type f | grep -e ".framework" | xargs grep -s LAContext
 [Android 启动优化](https://juejin.cn/post/6926794003794903048)
 
 [OOM探究：XNU 内存状态管理](https://mp.weixin.qq.com/s/fRm6IrBh83-NxWT7g9UzbA)
+
+[ProMotion: 优化可变刷新率屏幕的 App 体验](https://mp.weixin.qq.com/s/kiQyunEh2lpCLwaUqi2bbw) Session 10147
+
+[Android TTI 治理经验分享](https://mp.weixin.qq.com/s/FNoEWSB9YCMjbKsk-5OmLA)
