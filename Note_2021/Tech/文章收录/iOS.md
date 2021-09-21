@@ -95,3 +95,5 @@ find . -type f | grep -e ".framework" | xargs grep -s LAContext
 [ProMotion: 优化可变刷新率屏幕的 App 体验](https://mp.weixin.qq.com/s/kiQyunEh2lpCLwaUqi2bbw) Session 10147
 
 [Android TTI 治理经验分享](https://mp.weixin.qq.com/s/FNoEWSB9YCMjbKsk-5OmLA)
+
+[移动端性能监控方案Hertz](https://tech.meituan.com/2016/12/19/hertz.html)
