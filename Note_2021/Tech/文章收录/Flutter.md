@@ -15,3 +15,5 @@
 [从架构到源码：一文了解Flutter渲染机制](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247498616&idx=1&sn=148c105f38b8c5f3f439186a7c2b4736&chksm=e92ac677de5d4f6130ff01eaa34ad13e3a439f2deed15c6d347391c694d4328af5bedfe6b6d8&scene=178&cur_album_id=1404584922274398210#rd)
 
 [如何使用Rax构建Flutter应用](https://www.yuque.com/zaotalk/posts/uboad0)
+
+[企业微信超大型工程-跨全平台UI框架最佳实践](https://mp.weixin.qq.com/s/JdQmgQ57nWQM99JW_ueFVg)
