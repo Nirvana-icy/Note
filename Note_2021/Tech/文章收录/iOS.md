@@ -97,3 +97,5 @@ find . -type f | grep -e ".framework" | xargs grep -s LAContext
 [Android TTI 治理经验分享](https://mp.weixin.qq.com/s/FNoEWSB9YCMjbKsk-5OmLA)
 
 [移动端性能监控方案Hertz](https://tech.meituan.com/2016/12/19/hertz.html)
+
+[企业微信超大型工程-跨全平台UI框架最佳实践](https://mp.weixin.qq.com/s/JdQmgQ57nWQM99JW_ueFVg)
