@@ -82,6 +82,8 @@ find . -type f | grep -e ".framework" | xargs grep -s LAContext
 
 [Crash优化与建议](https://mp.weixin.qq.com/s?__biz=MzA5NzMwODI0MA==&mid=2647763899&idx=1&sn=989385831c105cd1c64b0512c8419409&chksm=8887d084bff05992bdc3772bf57d00c543556e179edd609822a57cff51bf7339f8b31120e4a9&token=759973081&lang=zh_CN&scene=21#wechat_redirect)
 
+[包大小优化](https://github.com/ming1016/SMCheckProject)
+
 ## 2021-09
 
 [浅谈iOS Crash（一）](https://juejin.cn/post/6844903487201869838)
