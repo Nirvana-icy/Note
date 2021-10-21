@@ -101,3 +101,7 @@ find . -type f | grep -e ".framework" | xargs grep -s LAContext
 [移动端性能监控方案Hertz](https://tech.meituan.com/2016/12/19/hertz.html)
 
 [企业微信超大型工程-跨全平台UI框架最佳实践](https://mp.weixin.qq.com/s/JdQmgQ57nWQM99JW_ueFVg)
+
+## 2021-10
+
+[iOS UI 自动化测试原理以及在 Trip.com 的应用实践](https://juejin.cn/post/7020977265374658597)
