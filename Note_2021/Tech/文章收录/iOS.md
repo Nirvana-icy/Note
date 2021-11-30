@@ -105,3 +105,11 @@ find . -type f | grep -e ".framework" | xargs grep -s LAContext
 ## 2021-10
 
 [iOS UI 自动化测试原理以及在 Trip.com 的应用实践](https://juejin.cn/post/7020977265374658597)
+
+[iOS 电量优化](https://www.jianshu.com/p/ec5631ec5164)
+
+[美团外卖iOS App冷启动治理](https://tech.meituan.com/2018/12/06/waimai-ios-optimizing-startup.html)
+
+## 2021-11
+
+[darwin/osfmk/vm_region](http://web.mit.edu/darwin/src/modules/xnu/osfmk/man/vm_region.html)
