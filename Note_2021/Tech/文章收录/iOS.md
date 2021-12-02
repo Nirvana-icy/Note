@@ -115,3 +115,5 @@ find . -type f | grep -e ".framework" | xargs grep -s LAContext
 [darwin/osfmk/vm_region](http://web.mit.edu/darwin/src/modules/xnu/osfmk/man/vm_region.html)
 
 [探索iOS内存分配](https://juejin.cn/post/6844903551366332423)
+
+[Wakeup in XNU](https://juejin.cn/post/6950843672275451940)
