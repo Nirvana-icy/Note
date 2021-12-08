@@ -119,3 +119,5 @@ find . -type f | grep -e ".framework" | xargs grep -s LAContext
 [Wakeup in XNU](https://juejin.cn/post/6950843672275451940)
 
 [用户态与内核态 -- 帮你解惑，直达本质](https://juejin.cn/post/6920621924791894023)
+
+[小程序容器首屏秒开优化实践](https://mp.weixin.qq.com/s/7qeBZZ1KusME_SO3_A4L9g)
