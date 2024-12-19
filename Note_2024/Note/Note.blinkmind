@@ -1,0 +1,917 @@
+{
+  "rootTopicKey": "a05b4ddb-97ff-4804-ae72-1cabb71ef4a1",
+  "editorRootTopicKey": "a05b4ddb-97ff-4804-ae72-1cabb71ef4a1",
+  "focusKey": "fe3bb1c6-da87-4101-a722-75189772b951",
+  "extData": {},
+  "topics": [
+    {
+      "key": "389ea6e7-4a6a-4626-aa44-97a3953ddc42",
+      "parentKey": "7191382d-7c85-41a5-8166-bbdcca98f766",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "12MP Camera 3042*4032*4 = 46.5MB R﻿GBA"
+        }
+      ]
+    },
+    {
+      "key": "b8990d12-c7e9-4df4-95c8-e0b973c7e21b",
+      "parentKey": "63cb9663-16ad-4f7f-a047-b8a3352be17a",
+      "subKeys": [
+        "0ac207c0-c3b0-4fcd-b407-55e47fd30fc1",
+        "05e629cc-d63a-4336-91f7-a213c479c1ab",
+        "a0b9576d-cd05-497d-ab0e-492d223b2d33"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "O﻿CR"
+        }
+      ]
+    },
+    {
+      "key": "dba1432e-9138-46b5-ac81-e6b9498ba492",
+      "parentKey": "7d396425-a86b-4c3a-abda-5081032c099b",
+      "subKeys": [
+        "5f8b0240-fd67-4cce-aeae-d8e3667bff2f"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "t﻿hread safe"
+        }
+      ]
+    },
+    {
+      "key": "18dbd452-e196-490b-8405-dd60fc6bcb76",
+      "parentKey": "a7e36bfe-8f70-4cd5-850d-9440ceea23d1",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "q﻿.size()"
+        }
+      ]
+    },
+    {
+      "key": "457665fe-87c4-4fb8-b369-2c61ed869ab0",
+      "parentKey": "5268d2f3-1126-40fb-8aa6-142f1186ca89",
+      "subKeys": [
+        "560ca917-d697-4f59-985f-1041e00f54dd",
+        "d31e218f-c56a-412c-9ac9-337395b4d321"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "v﻿ector"
+        }
+      ]
+    },
+    {
+      "key": "6ebb7c73-d113-4851-94c7-e167e7f25ef3",
+      "parentKey": "a7e36bfe-8f70-4cd5-850d-9440ceea23d1",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "q﻿ueue<TreeNode*> q"
+        }
+      ]
+    },
+    {
+      "key": "0ac207c0-c3b0-4fcd-b407-55e47fd30fc1",
+      "parentKey": "b8990d12-c7e9-4df4-95c8-e0b973c7e21b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "C﻿ar"
+        }
+      ]
+    },
+    {
+      "key": "2e99d4ad-ce00-48fb-bfe9-d5843250cdf3",
+      "parentKey": "183c6676-104b-4988-bfba-063080a0fba7",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Slow to display f﻿irst frame"
+        }
+      ]
+    },
+    {
+      "key": "d1c6c4bb-1e77-4798-8d08-4042fac18061",
+      "parentKey": "5f8b0240-fd67-4cce-aeae-d8e3667bff2f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "w﻿ait in list and get notify by "
+        }
+      ]
+    },
+    {
+      "key": "df400e7f-c7a8-4f9a-ba34-1d928a8c42c6",
+      "parentKey": "fe3bb1c6-da87-4101-a722-75189772b951",
+      "subKeys": [
+        "239f3861-15bd-414f-8393-f3f84e1e7f20",
+        "48478edf-a3e5-41ba-ba34-cf0001dd00f8",
+        "c6dd8629-a703-4896-8f4f-c06cd11e5ea2"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Service"
+        }
+      ]
+    },
+    {
+      "key": "a0b9576d-cd05-497d-ab0e-492d223b2d33",
+      "parentKey": "b8990d12-c7e9-4df4-95c8-e0b973c7e21b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "C﻿ard Number"
+        }
+      ]
+    },
+    {
+      "key": "5268d2f3-1126-40fb-8aa6-142f1186ca89",
+      "parentKey": "a05b4ddb-97ff-4804-ae72-1cabb71ef4a1",
+      "subKeys": [
+        "a7e36bfe-8f70-4cd5-850d-9440ceea23d1",
+        "457665fe-87c4-4fb8-b369-2c61ed869ab0"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "c﻿ode"
+        }
+      ]
+    },
+    {
+      "key": "560ca917-d697-4f59-985f-1041e00f54dd",
+      "parentKey": "457665fe-87c4-4fb8-b369-2c61ed869ab0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "vector<int> result;"
+        }
+      ]
+    },
+    {
+      "key": "5f8b0240-fd67-4cce-aeae-d8e3667bff2f",
+      "parentKey": "dba1432e-9138-46b5-ac81-e6b9498ba492",
+      "subKeys": [
+        "d1c6c4bb-1e77-4798-8d08-4042fac18061"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "before b﻿lock end"
+        }
+      ]
+    },
+    {
+      "key": "23195c5f-e9b2-4a3e-a111-220dd2e52d4b",
+      "parentKey": "7d396425-a86b-4c3a-abda-5081032c099b",
+      "subKeys": [
+        "f52df441-11e6-43e8-b4a2-b1f10dfc35fc"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "g﻿cd dispatch once"
+        }
+      ]
+    },
+    {
+      "key": "7191382d-7c85-41a5-8166-bbdcca98f766",
+      "parentKey": "10ca0009-3746-4648-99b4-4214dabc78e8",
+      "subKeys": [
+        "e6a2ba25-9420-4f50-b154-428988af49d6",
+        "389ea6e7-4a6a-4626-aa44-97a3953ddc42"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "I﻿mageIO Downsampling"
+        }
+      ]
+    },
+    {
+      "key": "e6a2ba25-9420-4f50-b154-428988af49d6",
+      "parentKey": "7191382d-7c85-41a5-8166-bbdcca98f766",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "D﻿ata Buffer -> Image Buffer"
+        }
+      ]
+    },
+    {
+      "key": "7d232562-1e40-4dce-9a0f-a93481d3494c",
+      "parentKey": "a05b4ddb-97ff-4804-ae72-1cabb71ef4a1",
+      "subKeys": [
+        "d7864ab8-dc23-4a04-bd30-097f60efedad",
+        "50fbf25f-db5b-493a-8bbc-9f23276f7282"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "NSNotification"
+        }
+      ]
+    },
+    {
+      "key": "48478edf-a3e5-41ba-ba34-cf0001dd00f8",
+      "parentKey": "df400e7f-c7a8-4f9a-ba34-1d928a8c42c6",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "M﻿etricKit Report"
+        }
+      ]
+    },
+    {
+      "key": "13f3b24f-fbfe-434e-b8cb-d421e62620a5",
+      "parentKey": "639d9e92-a9d4-441e-96b2-ab88d4af09f0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "F﻿lutter"
+        }
+      ]
+    },
+    {
+      "key": "ab25c72c-b1c2-4317-a191-5045d9ee756f",
+      "parentKey": "0a29948c-7cba-488b-ba60-508e3bbe75b9",
+      "subKeys": [
+        "160eb3ae-e45d-4658-871a-2dd3b618fbeb",
+        "d3ce8789-12a4-42ee-8925-fe457446c27c"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "P﻿rocessing"
+        }
+      ]
+    },
+    {
+      "key": "183c6676-104b-4988-bfba-063080a0fba7",
+      "parentKey": "ae52a70d-3ed3-4b12-8b04-0bf301e72b50",
+      "subKeys": [
+        "2e99d4ad-ce00-48fb-bfe9-d5843250cdf3",
+        "34b82056-f0fb-45fe-8eb0-74eacb5372f3"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "D﻿ecode all frames -> Decode frame one by one."
+        }
+      ]
+    },
+    {
+      "key": "10ca0009-3746-4648-99b4-4214dabc78e8",
+      "parentKey": "63cb9663-16ad-4f7f-a047-b8a3352be17a",
+      "subKeys": [
+        "fe3bb1c6-da87-4101-a722-75189772b951",
+        "7191382d-7c85-41a5-8166-bbdcca98f766",
+        "ae52a70d-3ed3-4b12-8b04-0bf301e72b50",
+        "c337ed27-2a20-4f09-a03f-a34d49535de8"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "P﻿erf Optim "
+        }
+      ]
+    },
+    {
+      "key": "ae52a70d-3ed3-4b12-8b04-0bf301e72b50",
+      "parentKey": "10ca0009-3746-4648-99b4-4214dabc78e8",
+      "subKeys": [
+        "16c4b68c-e8e4-44f2-a1d9-eafe77907406",
+        "9a1d2ef2-abf4-4247-95db-981244e24fbb",
+        "183c6676-104b-4988-bfba-063080a0fba7"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Y﻿YAnimatedImageView"
+        }
+      ]
+    },
+    {
+      "key": "50fbf25f-db5b-493a-8bbc-9f23276f7282",
+      "parentKey": "7d232562-1e40-4dce-9a0f-a93481d3494c",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "p﻿ost and observer run(sync) in same queue"
+        }
+      ]
+    },
+    {
+      "key": "2f95e2b3-2496-4fcd-a3dd-c1700376dcb3",
+      "parentKey": "c337ed27-2a20-4f09-a03f-a34d49535de8",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "C﻿lean when necessary."
+        }
+      ]
+    },
+    {
+      "key": "7d396425-a86b-4c3a-abda-5081032c099b",
+      "parentKey": "a05b4ddb-97ff-4804-ae72-1cabb71ef4a1",
+      "subKeys": [
+        "23195c5f-e9b2-4a3e-a111-220dd2e52d4b",
+        "dba1432e-9138-46b5-ac81-e6b9498ba492"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "d﻿ispatch_once"
+        }
+      ]
+    },
+    {
+      "key": "7ff77d6e-06d2-4458-89ed-ab5db62017a8",
+      "parentKey": "a7e36bfe-8f70-4cd5-850d-9440ceea23d1",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "q﻿.empty()"
+        }
+      ]
+    },
+    {
+      "key": "05e629cc-d63a-4336-91f7-a213c479c1ab",
+      "parentKey": "b8990d12-c7e9-4df4-95c8-e0b973c7e21b",
+      "subKeys": [
+        "fd0193c4-ce2f-41b9-ba7a-4ec3ff74df83",
+        "d81aeb8b-328c-4367-b167-34a544d76876"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "P﻿hone Number"
+        }
+      ]
+    },
+    {
+      "key": "c337ed27-2a20-4f09-a03f-a34d49535de8",
+      "parentKey": "10ca0009-3746-4648-99b4-4214dabc78e8",
+      "subKeys": [
+        "cd784c05-5255-44aa-9c23-d6e92dba75c0",
+        "2f95e2b3-2496-4fcd-a3dd-c1700376dcb3"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "K﻿ingfisher"
+        }
+      ]
+    },
+    {
+      "key": "4bae4b77-6a12-4414-a7e6-6b1f854126fb",
+      "parentKey": "a7e36bfe-8f70-4cd5-850d-9440ceea23d1",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "q﻿.pop()"
+        }
+      ]
+    },
+    {
+      "key": "00e7c3f5-3ed5-4086-863d-e29b46178b8c",
+      "parentKey": "fe3bb1c6-da87-4101-a722-75189772b951",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "T﻿est Case"
+        }
+      ]
+    },
+    {
+      "key": "63cb9663-16ad-4f7f-a047-b8a3352be17a",
+      "parentKey": "a05b4ddb-97ff-4804-ae72-1cabb71ef4a1",
+      "subKeys": [
+        "0a29948c-7cba-488b-ba60-508e3bbe75b9",
+        "b8990d12-c7e9-4df4-95c8-e0b973c7e21b",
+        "4afa2834-3b1d-45ce-807c-f3f5bfcc89e1",
+        "10ca0009-3746-4648-99b4-4214dabc78e8",
+        "639d9e92-a9d4-441e-96b2-ab88d4af09f0"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": ""
+        }
+      ]
+    },
+    {
+      "key": "fe3bb1c6-da87-4101-a722-75189772b951",
+      "parentKey": "10ca0009-3746-4648-99b4-4214dabc78e8",
+      "subKeys": [
+        "df400e7f-c7a8-4f9a-ba34-1d928a8c42c6",
+        "2ed2072d-343d-441b-a1c1-ef17d998758c",
+        "00e7c3f5-3ed5-4086-863d-e29b46178b8c"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "N﻿PKit"
+        }
+      ]
+    },
+    {
+      "key": "969094a4-8ae0-4a94-bc1d-a8bc93a74206",
+      "parentKey": "cd784c05-5255-44aa-9c23-d6e92dba75c0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Default 1﻿/4 physical memory."
+        }
+      ]
+    },
+    {
+      "key": "16c4b68c-e8e4-44f2-a1d9-eafe77907406",
+      "parentKey": "ae52a70d-3ed3-4b12-8b04-0bf301e72b50",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "N﻿SDictionary Issue -> NSCache"
+        }
+      ]
+    },
+    {
+      "key": "a05b4ddb-97ff-4804-ae72-1cabb71ef4a1",
+      "parentKey": null,
+      "subKeys": [
+        "7d396425-a86b-4c3a-abda-5081032c099b",
+        "7d232562-1e40-4dce-9a0f-a93481d3494c",
+        "5268d2f3-1126-40fb-8aa6-142f1186ca89",
+        "63cb9663-16ad-4f7f-a047-b8a3352be17a"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "O﻿verview"
+        }
+      ]
+    },
+    {
+      "key": "cd784c05-5255-44aa-9c23-d6e92dba75c0",
+      "parentKey": "c337ed27-2a20-4f09-a03f-a34d49535de8",
+      "subKeys": [
+        "969094a4-8ae0-4a94-bc1d-a8bc93a74206",
+        "b6bda736-2d2c-4012-9a74-abbadc2cd67a",
+        "35a82534-7778-4bbb-a854-9b7dae9457b4"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "M﻿axMemory Limit"
+        }
+      ]
+    },
+    {
+      "key": "b6bda736-2d2c-4012-9a74-abbadc2cd67a",
+      "parentKey": "cd784c05-5255-44aa-9c23-d6e92dba75c0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "A﻿valiable Memory * 0.25."
+        }
+      ]
+    },
+    {
+      "key": "9a1d2ef2-abf4-4247-95db-981244e24fbb",
+      "parentKey": "ae52a70d-3ed3-4b12-8b04-0bf301e72b50",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "C﻿ell Reuse Redecode Issue"
+        }
+      ]
+    },
+    {
+      "key": "d3ce8789-12a4-42ee-8925-fe457446c27c",
+      "parentKey": "ab25c72c-b1c2-4317-a191-5045d9ee756f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "P﻿erf"
+        }
+      ]
+    },
+    {
+      "key": "34b82056-f0fb-45fe-8eb0-74eacb5372f3",
+      "parentKey": "183c6676-104b-4988-bfba-063080a0fba7",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "High memory and cpu load when scoll."
+        }
+      ]
+    },
+    {
+      "key": "c9230c09-84b6-4d37-9bf7-5baf24360175",
+      "parentKey": "639d9e92-a9d4-441e-96b2-ab88d4af09f0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "R﻿N Like"
+        }
+      ]
+    },
+    {
+      "key": "239f3861-15bd-414f-8393-f3f84e1e7f20",
+      "parentKey": "df400e7f-c7a8-4f9a-ba34-1d928a8c42c6",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "L﻿aunch Engine"
+        }
+      ]
+    },
+    {
+      "key": "f52df441-11e6-43e8-b4a2-b1f10dfc35fc",
+      "parentKey": "23195c5f-e9b2-4a3e-a111-220dd2e52d4b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "d﻿ispatch_once_token"
+        }
+      ]
+    },
+    {
+      "key": "639d9e92-a9d4-441e-96b2-ab88d4af09f0",
+      "parentKey": "63cb9663-16ad-4f7f-a047-b8a3352be17a",
+      "subKeys": [
+        "c9230c09-84b6-4d37-9bf7-5baf24360175",
+        "13f3b24f-fbfe-434e-b8cb-d421e62620a5"
+      ],
+      "collapse": true,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "C﻿ross Platform"
+        }
+      ]
+    },
+    {
+      "key": "0a29948c-7cba-488b-ba60-508e3bbe75b9",
+      "parentKey": "63cb9663-16ad-4f7f-a047-b8a3352be17a",
+      "subKeys": [
+        "0faaaf68-56bf-47a2-8083-9856c9e5f2d1",
+        "ab25c72c-b1c2-4317-a191-5045d9ee756f"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "3﻿D Camera"
+        }
+      ]
+    },
+    {
+      "key": "0faaaf68-56bf-47a2-8083-9856c9e5f2d1",
+      "parentKey": "0a29948c-7cba-488b-ba60-508e3bbe75b9",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "E﻿moji Crash"
+        }
+      ]
+    },
+    {
+      "key": "4afa2834-3b1d-45ce-807c-f3f5bfcc89e1",
+      "parentKey": "63cb9663-16ad-4f7f-a047-b8a3352be17a",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "A﻿I Workshop"
+        }
+      ]
+    },
+    {
+      "key": "d81aeb8b-328c-4367-b167-34a544d76876",
+      "parentKey": "05e629cc-d63a-4336-91f7-a213c479c1ab",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Calcuate when neccerey﻿"
+        }
+      ]
+    },
+    {
+      "key": "fd0193c4-ce2f-41b9-ba7a-4ec3ff74df83",
+      "parentKey": "05e629cc-d63a-4336-91f7-a213c479c1ab",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "P﻿OI Zoom"
+        }
+      ]
+    },
+    {
+      "key": "a7e36bfe-8f70-4cd5-850d-9440ceea23d1",
+      "parentKey": "5268d2f3-1126-40fb-8aa6-142f1186ca89",
+      "subKeys": [
+        "6ebb7c73-d113-4851-94c7-e167e7f25ef3",
+        "7ff77d6e-06d2-4458-89ed-ab5db62017a8",
+        "1438b752-aa36-49b2-9438-a37146ce9fd6",
+        "4bae4b77-6a12-4414-a7e6-6b1f854126fb",
+        "18dbd452-e196-490b-8405-dd60fc6bcb76"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "queue"
+        }
+      ]
+    },
+    {
+      "key": "d31e218f-c56a-412c-9ac9-337395b4d321",
+      "parentKey": "457665fe-87c4-4fb8-b369-2c61ed869ab0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "r﻿esult.push_back(i)"
+        }
+      ]
+    },
+    {
+      "key": "1438b752-aa36-49b2-9438-a37146ce9fd6",
+      "parentKey": "a7e36bfe-8f70-4cd5-850d-9440ceea23d1",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "q﻿.push(curNode) "
+        }
+      ]
+    },
+    {
+      "key": "d7864ab8-dc23-4a04-bd30-097f60efedad",
+      "parentKey": "7d232562-1e40-4dce-9a0f-a93481d3494c",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "s﻿ender center receiver"
+        }
+      ]
+    },
+    {
+      "key": "160eb3ae-e45d-4658-871a-2dd3b618fbeb",
+      "parentKey": "ab25c72c-b1c2-4317-a191-5045d9ee756f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "T﻿ouch"
+        }
+      ]
+    },
+    {
+      "key": "c6dd8629-a703-4896-8f4f-c06cd11e5ea2",
+      "parentKey": "df400e7f-c7a8-4f9a-ba34-1d928a8c42c6",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "P﻿erfMonitor"
+        }
+      ]
+    },
+    {
+      "key": "35a82534-7778-4bbb-a854-9b7dae9457b4",
+      "parentKey": "cd784c05-5255-44aa-9c23-d6e92dba75c0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "1﻿00MB"
+        }
+      ]
+    },
+    {
+      "key": "2ed2072d-343d-441b-a1c1-ef17d998758c",
+      "parentKey": "fe3bb1c6-da87-4101-a722-75189772b951",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Tool"
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 2,
+    "theme": {
+      "name": "default",
+      "randomColor": true,
+      "background": "rgb(57,60,65)",
+      "highlightColor": "#50C9CE",
+      "marginH": 60,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5"
+      },
+      "linkStyle": {
+        "lineRadius": 5,
+        "lineType": "curve",
+        "lineWidth": "3px"
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "fontSize": "34px",
+          "borderRadius": "35px",
+          "padding": "16px 18px 16px 18px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px",
+          "lineColor": "rgb(113, 203, 45)"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "borderWidth": "1px",
+          "borderStyle": "solid",
+          "borderRadius": "20px",
+          "fontSize": "17px",
+          "padding": "10px 15px 10px 15px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px",
+          "lineColor": "rgb(113, 203, 45)"
+        }
+      },
+      "normalTopic": {
+        "contentStyle": {
+          "border": "1px solid #e8eaec",
+          "borderRadius": "20px",
+          "fontSize": "17px",
+          "padding": "4px 10px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px",
+          "lineColor": "white"
+        }
+      }
+    }
+  },
+  "formatVersion": "0.0"
+}
